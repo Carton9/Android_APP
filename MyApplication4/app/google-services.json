@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124396458817",
+    "project_id": "pick-up-158718"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124396458817:android:ba40a52bb0cee57a",
+        "android_client_info": {
+          "package_name": "com.android.carton9.pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124396458817-52vcov01iej13g27sudunolql3pm6u97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.carton9.pickup",
+            "certificate_hash": "89126A0430AF008FD356BBB636072CC3B86AAFFE"
+          }
+        },
+        {
+          "client_id": "124396458817-2p2mocudbc94m806g1meu9qr15atfe3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQQ3tgdepNHpKd-9hfF9bDj6PFEIQNM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
