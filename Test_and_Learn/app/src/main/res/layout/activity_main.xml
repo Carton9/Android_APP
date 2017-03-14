@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@android:style/Theme.NoTitleBar"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <fragment
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:name="com.android.carton9.test_and_learn.BlankFragment"
+        android:id="@+id/fragment"
+        android:layout_alignParentTop="true" />
+
+</RelativeLayout>
