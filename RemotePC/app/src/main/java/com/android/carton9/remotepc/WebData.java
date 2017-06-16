@@ -2,6 +2,7 @@ package com.android.carton9.remotepc;
 
 import java.io.*;
 import java.net.*;
+import java.util.Timer;
 
 /**
  * Created by qazwq on 2017/2/22.
@@ -17,6 +18,7 @@ public class WebData{
         client=null;
         out=null;
         buf=null;
+
     }
     public void init(){
         try {
